@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maninder</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
- <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" align="middle">
+ <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" align="middle">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep1060&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep1060" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep1060" alt="rajdeep1060" /></a> </p>
