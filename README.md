@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maninder</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
- <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" align="middle">
+ <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" width="1100">
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
 - 🌱 I’m currently learning **React.Js**
 
