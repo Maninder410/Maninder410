@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maninder</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
  <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" align="middle">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep1060" alt="rajdeep1060" /></a> </p>
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
 - 🌱 I’m currently learning **React.Js**
 
